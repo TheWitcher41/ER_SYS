@@ -1,0 +1,8 @@
+Full Name; License Number; Number of Patients
+=================================================
+David Azrachi; 205364; 2
+Hanni Barlev; 105789; 0
+Michal Rappaport; 112141; 1
+Muhammad Yunus; 297560; 2
+Diana Prokonov; 312247; 0
+Efraim Katz; 216653; 0
